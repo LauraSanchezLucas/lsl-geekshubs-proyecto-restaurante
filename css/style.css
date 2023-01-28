@@ -2,7 +2,28 @@ body{
     background-color: #FAEAB1;
     margin: 0;
     padding: 0;
+    font-family: 'Playfair Display', serif;
 }
+.tittle{
+    font-size: 2em;
+    font-weight: bold;
+}
+h6{
+    font-weight: bold;
+}
+.our-menu{
+    background-color: #342162;
+}
+
+.picture1{
+    border-top-left-radius: 48%;
+    border-top-right-radius: 48%;
+    height:100%;
+    width: 60%;
+}
+
+
+
 .box1{
     background-color: rgb(107, 142, 35);
 }
