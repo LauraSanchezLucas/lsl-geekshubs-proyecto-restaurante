@@ -8,6 +8,10 @@ body{
     font-size: 2em;
     font-weight: bold;
 }
+.tittle2{
+    font-size: 1.5em;
+    font-weight: bold;
+}
 h6{
     font-weight: bold;
 }
@@ -24,7 +28,7 @@ h6{
 
 
 
-.box1{
+/* .box1{
     background-color: rgb(107, 142, 35);
 }
 .box2{
@@ -35,4 +39,4 @@ input{
     border: none;
     background-color: #342162;
     border-bottom: 5px white;
-}
+} */
