@@ -1,13 +1,13 @@
 body{
     background-color: #FAEAB1;
-    margin: 0;
-    padding: 0;
     font-family: 'Playfair Display', serif;
+    height: 100%;
+    width: 100%;
 }
 .tittle{
     font-size: 2em;
     font-weight: bold;
-}
+} 
 .tittle2{
     font-size: 1.5em;
     font-weight: bold;
@@ -18,20 +18,32 @@ h6{
 .our-menu{
     background-color: #342162;
 }
-
-.picture1{
+.picture{
     border-top-left-radius: 48%;
     border-top-right-radius: 48%;
-    height:100%;
-    width: 60%;
 }
-
-
-
-/* .box1{
-    background-color: rgb(107, 142, 35);
+.picture1{
+    height:100%;
+    width: 80%;
+}
+.picture2{
+    height: fit-content;
+    width: fit-content;
+}
+.box{
+    background-color: rgb(107, 142, 35);   
+}
+.box1{
+    height: 15em;
 }
 .box2{
+    height: min-content;
+}
+.box3{
+    height: 15em;
+    width: 20em;
+}
+.box4{
     background-color: #342162;
 }
 
@@ -39,4 +51,4 @@ input{
     border: none;
     background-color: #342162;
     border-bottom: 5px white;
-} */
+} 
