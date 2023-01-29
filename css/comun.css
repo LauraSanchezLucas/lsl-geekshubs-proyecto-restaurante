@@ -35,16 +35,16 @@ h6{
 .box{
     background-color: rgb(107, 142, 35);   
 }
-.box1{
+/* .box1{
     height: 15em;
-}
-.box2{
+} */
+/* .box2{
     height: min-content;
-}
-.box3{
+} */
+/* .box3{
     height: 15em;
     width: 20em;
-}
+} */
 /* footer */
 footer{
     background-color: #231544;
@@ -54,24 +54,7 @@ footer{
     text-decoration: none;
 }
 
-/* Pag.menu */
-hr{
-    border: 1px solid #322256;
-    width: 3em;
-    opacity: 1;
-}
-.card{
-    border: none;
-    background-color: #FAEAB1;
-}
-.card-body{
-    /* background-color: aqua; */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 20em;
-}
-.info{
-    display: flex;
-}
+
+
+
+

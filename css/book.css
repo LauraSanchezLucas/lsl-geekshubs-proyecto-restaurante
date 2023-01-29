@@ -1,0 +1,21 @@
+.box{
+    background-color: rgba(106, 142, 35, 0.674);   
+}
+
+.box-book{
+    height: 20em;
+}
+
+.box-book-2{
+    background-image:url(../assets/location.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 1em 1em;
+    border: 2px solid rgba(106, 142, 35, 0.674);
+}
+h4{
+    color:#231544;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
