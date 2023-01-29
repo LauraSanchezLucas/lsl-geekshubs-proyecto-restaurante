@@ -11,11 +11,14 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    margin: 1em 1em;
     border: 2px solid rgba(106, 142, 35, 0.674);
 }
 h4{
     color:#231544;
     font-weight: bold;
     margin-bottom: 1em;
+}
+.btn{
+    background-color: rgb(109, 142, 45);
+    border: 1px solid white;
 }

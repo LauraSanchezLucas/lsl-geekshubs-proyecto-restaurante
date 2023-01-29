@@ -3,6 +3,7 @@ body{
     font-family: 'Playfair Display', serif;
     height: 100%;
     width: 100%;
+    /* padding: 1em; */
 }
 .tittle{
     font-size: 3.5em;
