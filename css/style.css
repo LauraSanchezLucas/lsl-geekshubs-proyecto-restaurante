@@ -45,15 +45,14 @@ h6{
     height: 15em;
     width: 20em;
 }
-.box4{
-    background-color: #342162;
+/* footer */
+footer{
+    background-color: #231544;
 }
-
-input{
-    border: none;
-    background-color: #342162;
-    border-bottom: 5px white;
-} 
+.icon{
+    color: white;
+    text-decoration: none;
+}
 
 /* Pag.menu */
 hr{
