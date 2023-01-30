@@ -3,16 +3,17 @@ body{
     font-family: 'Playfair Display', serif;
     height: 100%;
     width: 100%;
-    /* font-size: calc(15px + 0.390625); */
 }
-
 /* main Pag.index*/
 .tittle{
-    font-size: 6vw;
+    font-size: 5vw;
     font-weight: bold;
-    text-shadow: 0 0 20px #fefcc9, 2px -2px 3px #feec85, -4px -4px 5px #ffae34, 5px -10px 6px #ec760c, -5px -12px 8px #cd4606, 0 -15px 20px #973716, 2px -15px 20px #451b0e;
-    color: #231544;
+    text-shadow: 3px 3px 2px rgb(107, 142, 35);
+    color:#231544;
 } 
+p{
+    font-size: 1.2em;
+}
 /* button */
 .our-menu{
     background-color: #231544;
@@ -58,6 +59,17 @@ footer{
     background:linear-gradient( #FAEAB1,#231544) 80%;
     background-color: #231544;
 }
+.icon{
+    color: black;
+    text-decoration: none;
+}
+footer a{
+    color: black;
+}
+.button-footer, footer input{
+    border: none;
+    border-radius: 0.5em;
+}
 /* PAG. MENU */
 h1{
     color: #180e2d;
@@ -66,7 +78,6 @@ h1{
 h6{
     font-weight: bold;
 }
-
 /* Pag.menu style cards */
 .card{
     border: none;
@@ -79,40 +90,26 @@ h6{
     align-items: center;
     height: 20em;
 } 
-
-/* .tittle2{
-    font-size: 1.2em;
-    font-weight: bold;
-    color: #231544;
-}  */
-/* h4{
-    font-weight: bold;
-} */
-/* .picture{
-    border-top-left-radius: 48%;
-    border-top-right-radius: 48%;
-} */
-/* .picture1{
-    height:100%;
-    width: 80%;
-}  */
-/* .picture2{
-    height: fit-content;
-    width: fit-content;
-} */
-
-
-/* footer */
-/* footer{
-    background:linear-gradient( #FAEAB1,#231544)
-    background-color: #231544;
+/* Pag. book */
+.box1{
+    background-color: rgba(106, 142, 35, 0.674);   
 }
-.icon{
-    color: white;
-    text-decoration: none;
+.box-book{
+    height: 20em;
 }
-
-
-
-
-
+.box-book-2{
+    background-image:url(../assets/location.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 2px solid rgba(106, 142, 35, 0.674);
+}
+h4{
+    color:#231544;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+/* Pag. our story */
+.carousel img{
+    size: 15em;
+}
