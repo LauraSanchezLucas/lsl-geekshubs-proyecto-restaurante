@@ -3,7 +3,7 @@ body{
     font-family: 'Playfair Display', serif;
     height: 100%;
     width: 100%;
-    font-size: calc(15px + 0.390625);
+    /* font-size: calc(15px + 0.390625); */
 }
 
 /* main Pag.index*/
@@ -17,12 +17,11 @@ body{
 .our-menu{
     background-color: #231544;
 } 
-/* video */
+/*Pag. index video */
 video{ 
     filter:drop-shadow(0 20px 20px rgba(0,0,0,1));
 }
-/*picture´s style */
-
+/*Picture´s style */
 .img-half{
     border-top-left-radius: 48%;
     border-top-right-radius: 48%;
@@ -35,7 +34,7 @@ video{
 .caja1{
     z-index: -1;
 }
-/* green part */
+/*Pag. index green part */
 .image-greenpart{
     height: 20vh;
     background-size:40%;
@@ -60,26 +59,27 @@ footer{
     background-color: #231544;
 }
 /* PAG. MENU */
-hr{
-    border: 1px solid #322256;
-    width: 3em;
-    opacity: 1;
+h1{
+    color: #180e2d;
+    font-weight: bold;
 }
+h6{
+    font-weight: bold;
+}
+
+/* Pag.menu style cards */
 .card{
     border: none;
     background-color: #FAEAB1;
 }
 .card-body{
-    /* background-color: aqua; */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 20em;
-}
-.info{
-    display: flex;
-}
+} 
+
 /* .tittle2{
     font-size: 1.2em;
     font-weight: bold;
