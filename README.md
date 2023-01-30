@@ -6,6 +6,8 @@ Los requisitos mínimos constan de tres páginas html hipervinculadas, siendolas
 La temática del establecimiento es sacada de varias webs de restauración.
 He realizado una web sencilla y limpia visualmente.
 ```
+Se puede entrar desde el siguiente enlace : https://laurasanchezlucas.github.io/lsl-geekshubs-proyecto-restaurante/
+
 Se compone de la vista principal:
 
 ![image](https://user-images.githubusercontent.com/119357574/215599220-d2b41677-bc67-44bb-bab1-61869a00a996.png) ![image](https://user-images.githubusercontent.com/119357574/215596136-d1deba66-2157-42c2-9058-e88c6f2d7feb.png)![image](https://user-images.githubusercontent.com/119357574/215596364-d0077db6-59a7-4a6f-a61b-03e384dfc0e0.png)
