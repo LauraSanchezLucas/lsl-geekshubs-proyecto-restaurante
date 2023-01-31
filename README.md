@@ -37,6 +37,7 @@ Elementos usados de bootstrap:
 - Navbar.
 - Card.
 - Form.
+- carrusel.
 
 ## Tecnologías usadas.
 
